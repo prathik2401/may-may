@@ -5,5 +5,7 @@ Use this link to add this bot to your discord server - [MayMay Bot](https://disc
 
 ### After adding the bot, type in `$maymay` in one of your text-channels to generate memes
 
+## Contribution
 If you find yourselft using this bot, and would want to contribute to the souurce code, feel free to fork this repository and send a PR
+
 ## Happy MayMay-ing:)
